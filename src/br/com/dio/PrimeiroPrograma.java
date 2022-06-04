@@ -4,7 +4,8 @@ import br.com.dio.model.Gato;
 
 import java.sql.SQLOutput;
 
-public class PrimeiroPrograma { //editar o nome do programa Shift+F6
+public class
+PrimeiroPrograma { //editar o nome do programa Shift+F6
     public static void main(String[] args) {
         /* System.out.println("Hello Word!");*/
 
